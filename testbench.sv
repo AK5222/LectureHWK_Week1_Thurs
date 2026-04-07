@@ -1,5 +1,5 @@
 `timescale 1ns / 1ps
-
+`include "halfadder.sv"
 module testbench();
 
 // Signals for UUT connection
